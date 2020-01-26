@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
    
-    "name": "Ad Highlighter",
-    "version": "0.2.0",
-    "description": "Fixes Google Search results page to make ads more prominent",
+    "name": "Ad Remover",
+    "version": "0.1.0",
+    "description": "Hides Google Search ads",
    
     "content_scripts": [{
       "css": ["styles.css"],
