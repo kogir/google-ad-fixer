@@ -1,7 +1,9 @@
-.ads-ad {
+/* No longer this simple :(
+.ads-ad, .ads-visurl {
     display: none;
 }
+*/
 
-.ads-visurl {
-    display: none;
+div#taw, div.cu-container, div#bottomads, div#extrares, g-card {
+    display: none !important;
 }
